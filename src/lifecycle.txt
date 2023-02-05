@@ -1,0 +1,12 @@
+stages
+
+mounting
+
+updating
+
+unmounting
+
+
+React 18: useEffect Double Call; Mistake or Awesome?
+
+https://www.youtube.com/watch?v=j8s01ThR7bQ
